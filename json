@@ -1,0 +1,29 @@
+{  
+  "errorInfo":{  
+    "error":"0",
+    "errorText":"Успешно"
+  },
+  "cards":[  
+    {  
+      "cardTitle":"Сбережения",
+      "cardAmount":"1216.44",
+      "cardCurrency":"USD",
+      "cardAccountType":"Сберегательный счет",
+      "accountNumber":"BY00BN0000000000000000"
+    },
+    {  
+      "cardTitle":"Зарплатная карта",
+      "cardAmount":"15818.36",
+      "cardCurrency":"BYN",
+      "cardAccountType":"Зарплатный счет",
+      "accountNumber":"BY00BN0000568400000001"
+    },
+    {  
+      "cardTitle":"Кредитная карта",
+      "cardAmount":"63285.90",
+      "cardCurrency":"EUR",
+      "cardAccountType":"Кредитный счет",
+      "accountNumber":"BY00BN0000985300000007"
+    }
+  ]
+}
